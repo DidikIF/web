@@ -1,0 +1,8 @@
+<head>
+<style>
+Body  { background-color:rgb(191, 0, 255);  }
+P  { font-size:20px;  color:white;  }
+</style>
+</head>
+
+<p>ngetes background.</p>
